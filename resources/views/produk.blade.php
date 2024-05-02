@@ -58,7 +58,7 @@
               <tr>
                   <td>{{ $kode[$nilai_awal] }}</td>
                   <td>{{ $nama[$nilai_awal] }}</td>
-                  <td>Bunga</td>
+                  <td>Alat Tulis</td>
                   <td>{{ $harga[$nilai_awal] }}</td>
               </tr> 
       
@@ -88,7 +88,9 @@
                 <div class="col-sm-4">
                   <label for="">Jenis Produk</label>
                   <select name="Prodi Produk" class="form-control">
-                    <option value="">Bunga</option>
+                  <option value="">Alat Tulis</option>
+                  <option value="">Elektronik</option>
+                  <option value="">Sembako</option>
                   </select>
                 </div>
         </div>

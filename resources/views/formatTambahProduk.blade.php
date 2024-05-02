@@ -48,9 +48,14 @@
     </div>
           <div class="col-sm-4">
             <label for="">Jenis Produk</option>
+            <option value="">Alat Tulis</option>
+              <option value="">Elektronik</option>
+              <option value="">Sembako</option>
 
             <select name="Prodi Produk" class="form-control">
-              <option value="">Bunga</option>
+              <option value="">Alat Tulis</option>
+              <option value="">Elektronik</option>
+              <option value="">Sembako</option>
             </select>
           </div>
         </div>
